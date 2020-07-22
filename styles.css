@@ -1,0 +1,41 @@
+img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color: #003e80;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+
+.caption {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    color: #003e80;
+}
+
+h2 {
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #003e80;
+}
+
+hr {
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #bfbfbf;
+}
+
+body {
+    background-color: #f2f2f2;
+}
